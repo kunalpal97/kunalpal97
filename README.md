@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://kunalpal.netlify.app)
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="Coding" width="450" src="https://pbs.twimg.com/media/G5VaJmabEAAOd38?format=png&name=small" style="border-radius: 15px; border: 2px solid #ccc;">
+<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/G5Um180asAA7sdL?format=jpg&name=large" style="border-radius: 15px; border: 2px solid #ccc;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpal97&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpal97" /> </p>
