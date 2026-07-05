@@ -4,13 +4,12 @@
 
 <br/>
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td valign="top" width="68%">
+<td valign="top" width="70%">
 
 <h1>Kunal Pal</h1>
-
-<h3>Full Stack Developer &amp; DevOps Engineer &nbsp;·&nbsp; India 🇮🇳</h3>
+<h3>Full Stack Developer &nbsp;·&nbsp; DevOps Engineer &nbsp;·&nbsp; India 🇮🇳</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=kunalpal97&label=Profile%20Views&color=0e75b6&style=flat-square" />
@@ -20,17 +19,21 @@
   </a>
 </p>
 
-- 🔭 Building full-stack apps with **React, Node.js, Next.js, MongoDB**
-- 🐳 Hands-on with **Docker, Kubernetes, Linux & Bash scripting**
-- ☁️ Working with **Azure, AWS, GCP & Azure DevOps** pipelines
+- 🔭 Building full-stack apps with **React · Node.js · Next.js · MongoDB**
+- 🐳 Hands-on with **Docker · Kubernetes · Linux · Bash scripting**
+- ☁️ Working across **Azure · AWS · GCP** with **Azure DevOps** pipelines
 - 🌱 Currently learning: **Terraform · Helm · Prometheus · System Design · DSA**
-- 💬 Ask me about **JavaScript, React, Docker, SQL, C++, OOPs, Git**
-- 📫 **kunalpal460@gmail.com**
-- 🌐 [kunalpal.netlify.app](https://kunalpal.netlify.app/) &nbsp;·&nbsp; 📄 [Resume](https://drive.google.com/file/d/1R74WhSCnzJ6RHNwIXdPCDAkIWvS3a8ny/view?usp=sharing)
+- 💬 Ask me about **JavaScript · React · Docker · SQL · C++ · OOPs · Git**
+- 📫 kunalpal460@gmail.com &nbsp;·&nbsp; 🌐 [kunalpal.netlify.app](https://kunalpal.netlify.app/)
+- 📄 [View Resume](https://drive.google.com/file/d/1R74WhSCnzJ6RHNwIXdPCDAkIWvS3a8ny/view?usp=sharing)
 
 </td>
-<td valign="top" align="right" width="32%">
-<img src="https://pbs.twimg.com/media/G5Um180asAA7sdL?format=jpg&name=large" width="220" height="180" alt="Kunal Pal" />
+<td valign="top" align="right" width="30%">
+  <img
+    src="https://pbs.twimg.com/media/G5Um180asAA7sdL?format=jpg&name=large"
+    width="210"
+    alt="Kunal Pal"
+  />
 </td>
 </tr>
 </table>
@@ -40,8 +43,9 @@
 ## 🌐 Connect
 
 <p>
-  <a href="https://twitter.com/kunalpal7981"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>&nbsp;
-  <a href="https://www.leetcode.com/kunalpal9712"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;
+  <a href="https://twitter.com/kunalpal7981"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/kunalpal97"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.leetcode.com/kunalpal9712"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/2021kunalpal"><img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;
   <a href="mailto:kunalpal460@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -82,7 +86,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
