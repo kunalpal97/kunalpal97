@@ -4,9 +4,9 @@
 
 <br/>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border:none;">
 <tr>
-<td valign="top" width="70%">
+<td valign="top" width="68%" style="border:none;">
 
 <h1>Kunal Pal</h1>
 <h3>Full Stack Developer &nbsp;·&nbsp; DevOps Engineer &nbsp;·&nbsp; India 🇮🇳</h3>
@@ -28,11 +28,11 @@
 - 📄 [View Resume](https://drive.google.com/file/d/1R74WhSCnzJ6RHNwIXdPCDAkIWvS3a8ny/view?usp=sharing)
 
 </td>
-<td valign="top" align="right" width="30%">
+<td valign="top" align="right" width="32%" style="border:none;">
   <img
-    src="https://pbs.twimg.com/media/G5Um180asAA7sdL?format=jpg&name=large"
-    width="210"
-    alt="Kunal Pal"
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+    width="320"
+    alt="Coding"
   />
 </td>
 </tr>
